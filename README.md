@@ -1,8 +1,7 @@
 # Neural_Netorks_and_Deep_Learning
 
-## Technology:
-Neural networks and Deep Learning
-
+### Technology:Neural networks and Deep Learning
+### Data: 
 
 ## Challenge Overview
 We received a CSV containing more than 34,000 organizations that have received various amounts of funding from Alphabet Soup over the years. Within this dataset are a number of columns that capture metadata about each organization such as the following:
