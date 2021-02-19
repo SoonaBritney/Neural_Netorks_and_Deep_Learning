@@ -64,7 +64,7 @@ The deep learning model was able to produce a fairly reliable classifier.
 I tried doubling the epochs from 100 to 200. When compared to the previous deep learning model, this model produced a less reliable classifier. 
 This models accuracy was 0.7254810333251953, while the previous model was 0.7271137237548828
 
-3) If you were to implement a different model to solve this classification problem, which would you choose? Why?
+3). If you were to implement a different model to solve this classification problem, which would you choose? Why?
 I would us a Random forest classifier. 
 Random forest classifiers are a type of ensemble learning model that combines multiple smaller models into a more robust and accurate model. 
 They use a number of weak learner algorithms and combine their output to make a final classification decision. 
