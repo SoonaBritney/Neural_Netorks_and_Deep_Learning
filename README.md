@@ -21,6 +21,13 @@ We received a CSV containing more than 34,000 organizations that have received v
 ## Objectives
 #### 1. Deliverable 1: Preprocessing Data for a Neural Network Model
 #### 2. Deliverable 2: Compile, Train, and Evaluate the Model
+- The neural network model using Tensorflow Keras contains working code that performs the following steps:
+  - The number of layers, the number of neurons per layer, and activation function are defined (2.5 pt)
+  - An output layer with an activation function is created (2.5 pt)
+  - There is an output for the structure of the model (5 pt)
+  - There is an output of the model’s loss and accuracy (5 pt)
+  - The model's weights are saved every 5 epochs (2.5 pt)
+  - The results are saved to an HDF5 file (2.5 pt)
 #### 3. Deliverable 3: Optimize the Model
 - Using your knowledge of TensorFlow, optimize your model in order to achieve a target predictive accuracy higher than 75%. If you can't achieve an accuracy higher than 75%, you'll need to make at least three attempts to do so.
 #### 4. Deliverable 4: A Written Report on the Neural Network Model (README.md)
