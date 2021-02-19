@@ -22,6 +22,7 @@ We received a CSV containing more than 34,000 organizations that have received v
 #### Deliverable 1: Preprocessing Data for a Neural Network Model
 #### Deliverable 2: Compile, Train, and Evaluate the Model
 #### Deliverable 3: Optimize the Model
+- Using your knowledge of TensorFlow, optimize your model in order to achieve a target predictive accuracy higher than 75%. If you can't achieve an accuracy higher than 75%, you'll need to make at least three attempts to do so.
 #### Deliverable 4: A Written Report on the Neural Network Model (README.md)
 
 
