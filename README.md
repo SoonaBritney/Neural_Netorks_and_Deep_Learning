@@ -20,6 +20,13 @@ We received a CSV containing more than 34,000 organizations that have received v
 
 ## Objectives
 #### 1. Deliverable 1: Preprocessing Data for a Neural Network Model
+- The following preprocessing steps have been performed:
+  - The EIN and NAME columns have been dropped (5 pt)
+  - The columns with more than 10 unique values have been grouped together (5 pt)
+  - The categorical variables have been encoded using one-hot encoding (5 pt)
+  - The preprocessed data is split into features and target arrays (5 pt)
+  - The preprocessed data is split into training and testing datasets (5 pt)
+  - The numerical values have been standardized using the StandardScaler() module (5 pt)
 #### 2. Deliverable 2: Compile, Train, and Evaluate the Model
 - The neural network model using Tensorflow Keras contains working code that performs the following steps:
   - The number of layers, the number of neurons per layer, and activation function are defined (2.5 pt)
