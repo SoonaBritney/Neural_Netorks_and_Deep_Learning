@@ -1,7 +1,7 @@
 # Neural_Netorks_and_Deep_Learning
 
 ### Technology:Neural networks and Deep Learning
-### Data: 
+### Data: https://github.com/SoonaBritney/Neural_Netorks_and_Deep_Learning/blob/main/Challenge/Resources/charity_data.csv
 
 ## Challenge Overview
 We received a CSV containing more than 34,000 organizations that have received various amounts of funding from Alphabet Soup over the years. Within this dataset are a number of columns that capture metadata about each organization such as the following:
