@@ -1,7 +1,8 @@
 # Neural_Netorks_and_Deep_Learning
 
 ### Technology:Neural networks and Deep Learning
-### Data: https://github.com/SoonaBritney/Neural_Netorks_and_Deep_Learning/blob/main/Challenge/Resources/charity_data.csv
+### Data: 
+[charity_data.csv](https://github.com/SoonaBritney/Neural_Netorks_and_Deep_Learning/blob/main/Challenge/Resources/charity_data.csv)
 
 ## Challenge Overview
 We received a CSV containing more than 34,000 organizations that have received various amounts of funding from Alphabet Soup over the years. Within this dataset are a number of columns that capture metadata about each organization such as the following:
@@ -20,6 +21,7 @@ We received a CSV containing more than 34,000 organizations that have received v
 
 ## Objectives
 #### 1. Deliverable 1: Preprocessing Data for a Neural Network Model
+- [Deliverable 1](https://github.com/SoonaBritney/Neural_Netorks_and_Deep_Learning/blob/main/Challenge/AlphabetSoupCharity.ipynb)
 - The following preprocessing steps have been performed:
   - The EIN and NAME columns have been dropped (5 pt)
   - The columns with more than 10 unique values have been grouped together (5 pt)
@@ -27,7 +29,9 @@ We received a CSV containing more than 34,000 organizations that have received v
   - The preprocessed data is split into features and target arrays (5 pt)
   - The preprocessed data is split into training and testing datasets (5 pt)
   - The numerical values have been standardized using the StandardScaler() module (5 pt)
+
 #### 2. Deliverable 2: Compile, Train, and Evaluate the Model
+- [Deliverable 2](https://github.com/SoonaBritney/Neural_Netorks_and_Deep_Learning/blob/main/Challenge/AlphabetSoupCharity.ipynb)
 - The neural network model using Tensorflow Keras contains working code that performs the following steps:
   - The number of layers, the number of neurons per layer, and activation function are defined (2.5 pt)
   - An output layer with an activation function is created (2.5 pt)
@@ -35,8 +39,11 @@ We received a CSV containing more than 34,000 organizations that have received v
   - There is an output of the model’s loss and accuracy (5 pt)
   - The model's weights are saved every 5 epochs (2.5 pt)
   - The results are saved to an HDF5 file (2.5 pt)
-#### 3. Deliverable 3: Optimize the Model
+
+### 3. Deliverable 3: Optimize the Model
+- [Deliverable 3](https://github.com/SoonaBritney/Neural_Netorks_and_Deep_Learning/blob/main/Challenge/AlphabetSoupCharity.ipynb)
 - Using your knowledge of TensorFlow, optimize your model in order to achieve a target predictive accuracy higher than 75%. If you can't achieve an accuracy higher than 75%, you'll need to make at least three attempts to do so.
+
 #### 4. Deliverable 4: A Written Report on the Neural Network Model (README.md)
 - Overview of the analysis: Explain the purpose of this analysis.
 - Results: Using bulleted lists and images to support your answers, address the following questions.
